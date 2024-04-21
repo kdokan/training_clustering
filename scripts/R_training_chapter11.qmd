@@ -1,0 +1,25 @@
+---
+title: "R クラスタリング training"
+format: html
+---
+
+# データ作成
+
+5.1.4を参照
+
+```{r}
+seg.df = NULL
+set.seed(02554)
+
+segVars = c("age","gender","income","kids","ownHome", "subscribe")
+
+# for i in seq_along(segNames){
+#   cat(i, segNames[i], "¥n")
+#   
+#   this.seg = data.frame(matrix(NA, nrow = segSize[i], ncol=length(segVars)))
+#   
+#   for j in seq_along(segVars)
+# }
+
+```
+
