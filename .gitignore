@@ -154,7 +154,9 @@ cython_debug/
 
 # Quarto
 scripts/R_traning_chapter11_files/
-
+.css
+.js
+.wolf
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
